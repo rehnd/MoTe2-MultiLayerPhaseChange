@@ -1,0 +1,28 @@
+System  = MoTe2
+NCORE   = 8
+#KPAR = 8
+
+ENCUT   = 400      # plane wave energy cutoff
+ALGO    = Normal   # (default) ALGO=Normal selects IALGO=38 (blocked Davidson iteration scheme).
+IBRION  = 2        # Ionic relaxation using CG
+NSW     = 1000     # Maximum number of ionic steps
+ISIF    = 2        # Relax cell shape and ions, keep volume fixed
+POTIM   = 0.5      # for IBRION != 0, POTIM = 0.5 (scaling factor)
+
+
+EDIFF   = 1.0e-05  # break condition for electronic relaxation
+ISYM    = 0        # 0- switch off symmetry, but enforce psi_{k} = psi*_{-k}
+LREAL   = .FALSE.  # false= projection done in reciprocal space
+
+
+ISMEAR  = 0        # Gaussian smearing
+SIGMA   = 0.05     # smearing width in eV
+
+PREC    = Accurate # uses an augmentation grid (see ADDGRID)
+ADDGRID = .TRUE.   # additional support grid for evaluation of
+                   # augmentation charges (good for phonon calculations)
+
+NWRITE  = 1        # verbosity level of OUTCAR (low to high = 0,1,2,3)
+LCHARG  = .FALSE.  # whether CHGCAR and CHG are written (charge density files)
+LWAVE   = .FALSE.  # whether wavefunctions are written to WAVECAR
+
