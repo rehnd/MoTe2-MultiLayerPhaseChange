@@ -14,7 +14,7 @@ There are two folders with two different sets of calculations:
   through the top layer and into the layer below. We do not find any
   appreciable charge transfer, shown in the following figure:
 
-  <img src="raman/pics/Li-bilayer.png" width="400px"/>
+  <img src="lithiation/pics/Li-bilayer.png" width="400px"/>
 
   The calculations done to produce the above figure are found in t
 
