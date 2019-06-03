@@ -30,15 +30,15 @@ There are two folders with two different sets of calculations:
   <img src="projections/analysis/pics/sifigure.png" width="500px" />
   
   We see here that the Raman-active mode at 162.84 cm-1 of 1T'-MoTe2
-  with 1/32 = 3.125% vacancy concentration (a,c) shows a very high
+  with 1/32 = 3.125% vacancy concentration (**a,c**) shows a very high
   degree of similarity with the mode of the pristine sample at 162.58
-  cm-1 (b). These modes exhibit a similarity in terms of a projection
-  operation up to 93%, where the projection operation is defined in
-  the SI of the paper. 
+  cm-1 (**b**). These modes exhibit a similarity in terms of a
+  projection operation up to 93% (**d**), where the projection
+  operation is defined in the SI of the paper.
   
   
   
-  - `Note`: additional calculations done for this project can be found
+- `Note`: additional calculations done for this project can be found
   at
   [https://github.com/rehnd/MoTe2-Salleo](https://github.com/rehnd/MoTe2-Salleo) by
   request.
