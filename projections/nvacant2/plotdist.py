@@ -1,0 +1,30 @@
+from pylab import *
+rcParams.update({'font.size': 40, 'text.usetex': True})
+
+lmode = genfromtxt("output1")
+hmode = genfromtxt('output2')
+
+
+fig, ax1 = subplots(figsize=(22,8))
+ax1.bar(lmode[:,1],abs(hmode[:,2]),width=1)
+ax2 = ax1.twinx()
+ax2.bar(hmode[:,1],abs(lmode[:,2]),width=1,color='C1')
+ax1.set_xlabel(r"freq. (cm$^{-1}$)")
+ax1.set_ylabel(r"proj (162 mode)",color='C0')
+ax2.set_ylabel(r"proj (158 mode)",color='C1')
+ax1.set_xlim(0,300)
+ax2.set_xlim(0,300)
+ax1.set_ylim(0,1)
+ax2.set_ylim(1,0)
+title("2 vacancy projections",y=1.05)
+tight_layout()
+show()
+
+# figure()
+# bar(hmode[:,1],abs(hmode[:,2]),width=1)
+# xlabel(r"freq. (cm$^{-1}$)")
+# ylabel(r"Projection value")
+# title("163 mode")
+# ylim(0,1)
+# tight_layout()
+# show()
