@@ -27,7 +27,7 @@ There are two folders with two different sets of calculations:
   results are shown in the figure below and included in the SI of the
   paper.
   
-  <img src="projections/analysis/pics/sifigure.png"
+  <img src="projections/analysis/pics/sifigure.png" width="500px" />
   
   We see here that the Raman-active mode at 162.84 cm-1 of 1T'-MoTe2
   with 1/32 = 3.125% vacancy concentration (a,c) shows a very high
