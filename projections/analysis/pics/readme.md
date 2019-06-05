@@ -9,7 +9,7 @@ Te vacancies (out of 32 Te atoms total).
 # 1/32 Te vacancy concentration
 <img src="nvacant1-159.png" width="700px"/>
 
-<img src="nvacant1-163.png" width="700px"/>
+<img src="nvacant1-162.png" width="700px"/>
 
 # 2/32 Te vacancy concentration
 <img src="nvacant2-159.png" width="700px"/>
@@ -19,4 +19,4 @@ Te vacancies (out of 32 Te atoms total).
 # 3/32 Te vacancy concentration
 <img src="nvacant3-159.png" width="700px"/>
 
-<img src="nvacant3-163.png" width="700px"/>
+<img src="nvacant3-162.png" width="700px"/>
