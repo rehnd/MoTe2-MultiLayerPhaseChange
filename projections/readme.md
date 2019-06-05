@@ -6,3 +6,7 @@ Two subfolders contain the following:
   (excluding POTCAR files).
 - `analysis`: folder containing python files for calculating
   projections and analyzing the vibrational modes
+
+The main results of the paper are shown in this figure,
+
+<img src="analysis/pics/sifigure.png" width="700px"/>
