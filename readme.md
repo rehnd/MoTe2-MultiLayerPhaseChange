@@ -1,7 +1,8 @@
 # MoTe2 Multi-layer phase change calculations
 
-This repo is intended to support the paper _Reversible Electrochemical
-Phase Change in Monolayer to Bulk MoTe2 by Ionic Liquid Gating_,
+This repo is intended to support the
+paper
+[Reversible Electrochemical Phase Change in Monolayer to Bulk MoTe2 by Ionic Liquid Gating](https://arxiv.org/abs/1905.12746),
 submitted to arXiV in May 2019.
 
 There are two folders with two different sets of calculations:
