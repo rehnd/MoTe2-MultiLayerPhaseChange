@@ -1,4 +1,4 @@
-# MoTe2 Multi-layer phase change calculations
+# MoTe<sub>2</sub> Multi-layer phase change calculations
 
 This repo is intended to support the
 paper
