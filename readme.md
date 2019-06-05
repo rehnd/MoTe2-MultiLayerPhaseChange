@@ -38,7 +38,5 @@ There are two folders with two different sets of calculations:
   
   
   
-- `Note`: additional calculations done for this project can be found
-  at
-  [https://github.com/rehnd/MoTe2-Salleo](https://github.com/rehnd/MoTe2-Salleo) by
-  request.
+- `Note`: additional calculations done for this project are available
+  by request.
