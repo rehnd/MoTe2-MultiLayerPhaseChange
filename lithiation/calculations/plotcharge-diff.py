@@ -98,7 +98,7 @@ if __name__ == '__main__':
     xlabel('$q(z)$')
     ylabel('$z$ ($\mathrm{\AA}$)')
     tight_layout()
-    savefig('charge_vs_z.png', bbox_inches='tight')
+    savefig('pics/charge_vs_z.png', bbox_inches='tight')
     #show()
 
     chargezsum1 = zeros(nz)
@@ -121,5 +121,5 @@ if __name__ == '__main__':
     ylim(0,35)
     xlim(-0.1,1.1)
     tight_layout()
-    savefig("sumcharge_vs_z.png", bbox_inches='tight')        
+    savefig("pics/sumcharge_vs_z.png", bbox_inches='tight')        
     #show()
