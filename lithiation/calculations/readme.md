@@ -26,7 +26,7 @@ folder here. In addition, a unit cell with all 3 Li atoms is provided
 in the `pics/` folder.
 
 ### Bilayer and locations of the 3 Li atoms considered
-<img src='pics/cell.png' width="300px"/>
+<img src='pics/cell.png' width="200px"/>
 
 ### z position in the cell vs. charge density at that position
 <img src='pics/charge_vs_z.png' width="300px"/>
