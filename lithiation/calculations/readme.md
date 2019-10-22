@@ -21,3 +21,15 @@ which is performed in a separate folder, summarized here:
 - `6-bilayer-only/`: Same as 3, but without the Li atom (needed so
   that we can subtract the charge density from folders 3,4,5.
 
+Running `plotcharge-diff.py` produces the pictures in the `pics/`
+folder here. In addition, a unit cell with all 3 Li atoms is provided
+in the `pics/` folder.
+
+### Bilayer and locations of the 3 Li atoms considered
+<img src='pics/cell.png' width="300px"/>
+
+### z position in the cell vs. charge density at that position
+<img src='pics/charge_vs_z.png' width="300px"/>
+
+### z position in the cell vs. integrated charge density up to that position
+<img src='pics/sumcharge_vs_z.png' width="300px"/>
